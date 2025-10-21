@@ -1,10 +1,6 @@
-<div style="display: flex; flex-wrap: wrap; width: 100%;">
-   <div style="display: flex; width: 100%; gap: 10px;">
-      <img style="height: 185px; object-fit: cover;" src="https://github-readme-stats-ouuan.vercel.app/api?username=hysyyds&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-      <img style="height: 185px; object-fit: cover;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hysyyds&layout=compact&theme=vue-dark&langs_count=10&hide=javascript,html,css,scss&card_width=289" alt="Top Languages" />
-   </div>
-</div>
-
+| <a href="https://github.com/hysyyds"><img align="center" src="https://github-readme-stats-ouuan.vercel.app/api?username=hysyyds&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="hysyyds's github stats" /></a> | <a href="https://github.com/hysyyds"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hysyyds&layout=compact&theme=buefy&langs_count=10&hide=javascript,html,css,scss&hide_border=true" /></a> |
+| ------------- | ------------- |
+#### Coding Time
 <!--START_SECTION:waka-->
 
 ```python
