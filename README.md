@@ -1,4 +1,4 @@
-| <a href="https://github.com/hysyyds"><img align="center" src="https://github-readme-stats-ouuan.vercel.app/api?username=hysyyds&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="hysyyds's github stats" /></a> | <a href="https://github.com/hysyyds"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hysyyds&layout=compact&theme=buefy&langs_count=10&hide=javascript,html,css,scss&hide_border=true" /></a> |
+| <a href="https://github.com/hysyyds"><img align="center" src="https://github-readme-stats-ouuan.vercel.app/api?username=hysyyds&show_icons=true&bg_color=00000000&count_private=true&hide_border=true" alt="hysyyds's github stats" /></a> | <a href="https://github.com/hysyyds"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hysyyds&layout=compact&bg_color=00000000&langs_count=10&hide=javascript,html,css,scss&hide_border=true" /></a> |
 | ------------- | ------------- |
 #### Coding Time
 <!--START_SECTION:waka-->
