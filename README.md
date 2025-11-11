@@ -12,9 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-Total Time: 0 secs
+Total Time: 31 mins
+
+Python       17 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.40 %
+Other        14 mins         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.82 %
 ```
 
 <!--END_SECTION:waka-->
