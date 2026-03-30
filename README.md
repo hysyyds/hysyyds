@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 March 2026 - To: 28 March 2026
+From: 22 March 2026 - To: 29 March 2026
 
-Total Time: 4 hrs 29 mins
+Total Time: 2 hrs 38 mins
 
-Bash         2 hrs 16 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.14 %
-Python       1 hr 22 mins          🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.07 %
-Other        25 mins               🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.79 %
+Bash         1 hr 8 mins           🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.44 %
+Python       1 hr 3 mins           🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.89 %
+Other        18 mins               🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.57 %
 ```
 
 <!--END_SECTION:waka-->
